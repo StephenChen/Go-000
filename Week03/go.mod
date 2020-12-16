@@ -1,4 +1,4 @@
-module main
+module week03
 
 go 1.14
 
